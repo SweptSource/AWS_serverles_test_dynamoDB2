@@ -15,7 +15,7 @@
           <value>
             <DeploySamConfig>
               <option name="autoExecute" value="true" />
-              <option name="bucketName" value="s3tawoest1" />
+              <option name="bucketName" value="elasticbeanstalk-eu-central-1-580489004660" />
               <option name="enabledCapabilities">
                 <list>
                   <option value="IAM" />

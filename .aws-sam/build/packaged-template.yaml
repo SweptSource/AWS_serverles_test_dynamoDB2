@@ -12,7 +12,7 @@ Resources:
   HelloWorldFunction:
     Type: AWS::Serverless::Function
     Properties:
-      CodeUri: s3://s3tawoest1/2551326490bbf96af3da66eaf7f9b63d
+      CodeUri: s3://elasticbeanstalk-eu-central-1-580489004660/4f302b3361eb3fecfcd9ebe64a9d1cba
       Handler: helloworld.App::handleRequest
       Runtime: java8
       MemorySize: 512
